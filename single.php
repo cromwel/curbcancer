@@ -308,7 +308,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                  <div class="panel panel-default">
             <div class="panel-heading">
                 <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">brain tumour?</a>
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">Brain tumour?</a>
                 </h5>
             </div>
             <div id="collapseFive" class="panel-collapse collapse in ">
@@ -390,7 +390,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h5 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">do you have any Unexplained weight loss?</a>
+                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">Do you have any Unexplained weight loss?</a>
                 </h5>
             </div>
             <div id="collapseFive" class="panel-collapse collapse in ">

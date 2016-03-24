@@ -14,7 +14,6 @@
 body        { font: 14px Georgia, serif; }
 
 #page-wrap        { width: 500px; margin: 0 auto; }
-
 h1                  { margin: 25px 0; font: 14px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
 
 #quiz input {
@@ -32,6 +31,13 @@ h1                  { margin: 25px 0; font: 14px Georgia, Serif; text-transform:
 #quiz ol li div {
    padding: 4px 0;
 }
+
+#title{
+
+text-decoration-color: #00CC00;
+
+}
+
 
 #quiz h3 {
    font-size: 17px; margin: 0 0 1px 0; color: #666;
@@ -98,6 +104,7 @@ dfn {
 h1 {
   margin: .67em 0;
   font-size: 2em;
+  color:#177EE5;
 }
 mark {
   color: #000;
@@ -1208,7 +1215,6 @@ hr {
 [role="button"] {
   cursor: pointer;
 }
-h1,
 h2,
 h3,
 h4,
@@ -1225,7 +1231,6 @@ h6,
   line-height: 1.1;
   color: inherit;
 }
-h1 small,
 h2 small,
 h3 small,
 h4 small,

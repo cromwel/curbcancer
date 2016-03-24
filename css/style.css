@@ -78,6 +78,9 @@ label{
   -webkit-box-shadow: none;
   margin: 0 auto;
 }
+
+
+
 .rslides_tabs {
   list-style: none;
   padding: 0;
@@ -120,6 +123,8 @@ label{
   position: relative;
   width: 100%;
 }
+
+
 .callbacks {
   position: relative;
   list-style: none;
